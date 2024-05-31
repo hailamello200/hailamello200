@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🌱 Também estou estudando Spring Boot e SQL
+🌱 Estou estudando Spring Boot e SQL
 
 💬 Sou entusiasta no desenvolvimento Java para APIs
 
